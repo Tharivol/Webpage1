@@ -1,0 +1,23 @@
+
+
+#Welcome {
+	text-align: center;
+
+} 
+	
+h1 {
+	background-color: Brown;
+	text-shadow: grey;
+}
+#imagediv	{
+	position: relative;
+	text-align:center;
+}
+
+#hops	{
+	position: absolute;
+	background-color: #dfbf9f;
+	top: 0;
+	left: 0;
+
+	}
